@@ -4,6 +4,12 @@
     <img src="https://imgbed.sanyue.site/file/bc34f74d9f80e1a3a4b76.png" style="width: 200px; height: 80px;" alt="我的博客图片"/>
   </a>
 
+  <h3>❤️ 公益服务</h3>
+  图床：<a href="https://imgbed.sanyue.site">Sanyue ImgHub</a>
+  </br>
+  AI服务：<a href="https://next.sanyue.site">Sanyue GPT</a>
+  </br>
+  bing代理：<a href="https://bingai.sanyue.site">Bing AI</a>
   <h3>💻 GitHub档案</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
