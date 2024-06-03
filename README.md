@@ -1,6 +1,6 @@
 ## Hi, I'm SanyueQi 👋
   <h3>:snowman: 我的博客</h3>
-  [San's World](https://sanyue.site)
+  <a href="https://sanyue.site" alt="我的博客">San's World</a>
   <h3>🔥 我的贡献</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
