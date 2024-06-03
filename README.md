@@ -12,8 +12,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarSeventh&theme=dracula&locale=cn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![MarSeventh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarSeventh&theme=dracula&locale=cn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarSeventh&theme=dracula&locale=cn&count_private=true)
+  ![MarSeventh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarSeventh&theme=dracula&locale=cn&count_private=true)
   <br/>
 
   
