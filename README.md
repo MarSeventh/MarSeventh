@@ -19,4 +19,3 @@
   <h3>❤️ 公益服务</h3>
   <h4>图床：<a href="https://demo-cloudflare-imgbed.pages.dev">Sanyue ImgHub</a></h4>
   <h4>AI服务：<a href="https://next.sanyue.site">Sanyue GPT</a></h4>
-  <h4>bing：<a href="https://bingai.sanyue.site">Bing AI</a></h4>
