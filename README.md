@@ -13,9 +13,10 @@
   <h3>🔥 我的贡献</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=MarSeventh&theme=dark&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=MarSeventh&theme=dark&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" />
   </p>
 
   <h3>❤️ 公益服务</h3>
   <h4>图床：<a href="https://cfbed.1314883.xyz">Sanyue ImgHub</a></h4>
   <h4>AI服务：<a href="https://next.sanyue.site">Sanyue GPT</a></h4>
+  <a href="https://afdian.com/a/marseventh"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a >
