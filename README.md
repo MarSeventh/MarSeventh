@@ -17,6 +17,6 @@
   </p>
 
   <h3>❤️ 公益服务</h3>
-  <h4>图床(认证码：cfbed)：<a href="https://cfbed.1314883.xyz">Sanyue ImgHub</a></h4>
+  <h4>图床：<a href="https://cfbed.1314883.xyz">Sanyue ImgHub(密码:cfbed)</a></h4>
   <h4>AI服务：<a href="https://next.sanyue.site">Sanyue GPT</a></h4>
   <a href="https://afdian.com/a/marseventh"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
