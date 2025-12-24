@@ -1,7 +1,4 @@
-## Hi, I'm SanyueQi 👋
-- 🍻 PhD at 🇨🇳 [BUAA](https://buaa.edu.cn)
-- 🏃 Running
-  
+## Hi, I'm SanyueQi 👋  
   <h3>:snowman: 我的博客 / My Blog</h3>
   <a href="https://sanyue.site">
     <img src="https://imgbed.sanyue.site/file/bc34f74d9f80e1a3a4b76.png" style="width: 200px; height: 80px;" alt="我的博客图片"/>
