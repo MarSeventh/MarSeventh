@@ -1,4 +1,4 @@
-## Hi, I'm SanyueQi 👋
+# Hi, I'm SanyueQi 👋
 
 **Full Stack Developer / Embodied AI & Robotics Researcher**
 
@@ -6,7 +6,7 @@
 - 💻 Passionate about building elegant web applications and developer tools, navigating daily between front-end, back-end, and cloud-native infrastructure. Simultaneously dedicated to exploring the frontiers of Embodied AI.
 - 🏃 Hobby: Running
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -15,14 +15,12 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
----
-
-### ⛄ My Blog
+## ⛄ My Blog
 <a href="https://sanyue.site">
   <img src="https://imgbed.sanyue.site/file/blog/Qi’s.png" style="height: 80px;" alt="My Blog"/>
 </a>
 
-### 📊 GitHub Profile
+## 📊 GitHub Profile
 <div align="center">
   <img src="https://github-readme-status.sanyue.site/api/top-langs/?username=MarSeventh&theme=dracula&locale=en&border_radius=12&layout=compact" height="160" alt="Top Langs" />
   &nbsp;&nbsp;
@@ -30,7 +28,7 @@
 </div>
 <br/>
 
-### 🔥 Contributions
+## 🔥 Contributions
 <div align="center">
   <a href="https://github.com/MarSeventh">
     <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=MarSeventh&theme=dark&border_radius=12&locale=en&card_width=755" alt="GitHub Streak" />
