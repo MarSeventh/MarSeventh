@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://github-readme-status.sanyue.site/api/top-langs/?username=MarSeventh&theme=dracula&locale=en&border_radius=12&layout=compact" height="160" alt="Top Langs" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-status.sanyue.site/api?username=MarSeventh&theme=dracula&locale=en&border_radius=12&show_icons=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-status.sanyue.site/api?username=MarSeventh&theme=dracula&locale=en&border_radius=12&show_icons=true&include_all_commits=true" height="160" alt="GitHub stats" />
 </div>
 <br/>
 
