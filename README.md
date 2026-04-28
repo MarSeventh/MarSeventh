@@ -41,6 +41,5 @@
 - 🖼️ **Public Image Hosting**: [Sanyue ImgHub](https://cfbed.1314883.xyz) (Password: `cfbed`)
 - ☕ **Support Me**: If my open-source projects have helped you, feel free to buy me a coffee!
 
-<a href="https://afdian.com/a/marseventh">
-  <img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="Sponsor on Afdian">
-</a>
+  <a href="https://afdian.com/a/marseventh"><img src="https://img.shields.io/badge/AFDIAN-946CE6?style=for-the-badge&logo=afdian&logoColor=white" height="36" alt="Afdian"></a>&nbsp;&nbsp;<a href="readme/weixin-reward.png" target="_blank"><img src="https://img.shields.io/badge/WeChat_Pay-07c160?style=for-the-badge&logo=wechat&logoColor=white" height="36" alt="WeChat Pay"></a>&nbsp;&nbsp;<a href="readme/alipay-reward.png" target="_blank"><img src="https://img.shields.io/badge/Alipay-1677FF?style=for-the-badge&logo=alipay&logoColor=white" height="36" alt="WeChat Pay"></a>
+  
