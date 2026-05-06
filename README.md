@@ -5,12 +5,7 @@
 - 🎓 Ph.D. Candidate at 🇨🇳 [BUAA](https://buaa.edu.cn).
 - 💻 Passionate about building elegant web applications and developer tools, navigating daily between front-end, back-end, and cloud-native infrastructure. Simultaneously dedicated to exploring the frontiers of Embodied AI.
 - 🏃 Hobby: Running
-
-**You can find more about me in my blog if you want!**
-
-<a href="https://sanyue.site">
-  <img src="https://imgbed.sanyue.site/file/blog/Qi’s.png" style="height: 52px;" alt="My Blog"/>
-</a>
+- 🥳 You can find more about me in [my blog](https://sanyue.site)!
 
 ## 🛠️ Tech Stack
 - 💻 **Languages**
