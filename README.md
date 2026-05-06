@@ -6,6 +6,12 @@
 - 💻 Passionate about building elegant web applications and developer tools, navigating daily between front-end, back-end, and cloud-native infrastructure. Simultaneously dedicated to exploring the frontiers of Embodied AI.
 - 🏃 Hobby: Running
 
+**You can find more about me in my blog if you want!**
+
+<a href="https://sanyue.site">
+  <img src="https://imgbed.sanyue.site/file/blog/Qi’s.png" style="height: 52px;" alt="My Blog"/>
+</a>
+
 ## 🛠️ Tech Stack
 - 💻 **Languages**
 
@@ -22,11 +28,6 @@
 - ⚙️ **Infrastructure & Tools**
 
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-## ⛄ My Blog
-<a href="https://sanyue.site">
-  <img src="https://imgbed.sanyue.site/file/blog/Qi’s.png" style="height: 80px;" alt="My Blog"/>
-</a>
 
 ## 📊 GitHub Profile
 <div align="center">
