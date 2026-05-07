@@ -18,16 +18,10 @@
   <img src="https://github-readme-status.sanyue.site/api/top-langs/?username=MarSeventh&theme=dracula&locale=en&border_radius=12&layout=compact" height="160" alt="Top Langs" />
   &nbsp;&nbsp;
   <img src="https://github-readme-status.sanyue.site/api?username=MarSeventh&theme=dracula&locale=en&border_radius=12&show_icons=true&include_all_commits=true" height="160" alt="GitHub stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=MarSeventh&theme=dark&border_radius=12&locale=en&card_width=692" alt="GitHub Streak" />
 </div>
-<br/>
-
-## 🔥 Contributions
-<div align="center">
-  <a href="https://github.com/MarSeventh">
-    <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=MarSeventh&theme=dark&border_radius=12&locale=en&card_width=755" alt="GitHub Streak" />
-  </a>
-</div>
-<br/>
 
 ## ❤️ Public Service & Sponsor
 
