@@ -9,12 +9,12 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=py,c,java,rust,ts,js,html,css,vue,nextjs,nodejs,tauri,pytorch,ros,opencv,docker,kubernetes,nginx,cloudflare,github,linux" alt="My Tech Stack" />
 </div>
 
 ## 📊 GitHub Profile
-<div align="center">
+<div>
   <img src="https://github-readme-status.sanyue.site/api/top-langs/?username=MarSeventh&theme=dracula&locale=en&border_radius=12&layout=compact" height="160" alt="Top Langs" />
   &nbsp;
   <img src="https://github-readme-status.sanyue.site/api?username=MarSeventh&theme=dracula&locale=en&border_radius=12&show_icons=true&include_all_commits=true" height="160" alt="GitHub stats" />
