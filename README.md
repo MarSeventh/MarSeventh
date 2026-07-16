@@ -1,9 +1,9 @@
 # Hi, I'm SanyueQi 👋
 
-**Full Stack Developer / Embodied AI & Robotics Researcher**
+**Embodied AI & Robotics Researcher / Full Stack Developer**
 
 - 🎓 Ph.D. Candidate at 🇨🇳 [BUAA](https://buaa.edu.cn).
-- 💻 Passionate about building elegant web applications and developer tools, navigating daily between front-end, back-end, and cloud-native infrastructure. Simultaneously dedicated to exploring the frontiers of Embodied AI.
+- 💻 Dedicated to exploring the frontiers of Embodied AI. Simultaneously passionate about building elegant web applications and developer tools, navigating daily between front-end, back-end, and cloud-native infrastructure.
 - 🏃 Hobby: Running
 - 🥳 You can find more about me in [my blog](https://sanyue.site)!
 
