@@ -5,7 +5,7 @@
 - 🎓 Ph.D. Candidate at 🇨🇳 [BUAA](https://buaa.edu.cn).
 - 💻 Dedicated to exploring the frontiers of Embodied AI. Simultaneously passionate about building elegant web applications and developer tools, navigating daily between front-end, back-end, and cloud-native infrastructure.
 - 🏃 Hobby: Running
-- 🥳 You can find more about me in [my blog](https://sanyue.site)!
+- 🥳 You can find more about me in my [blog](https://sanyue.site) and my [telegram channel](https://t.me/sanyue_club)!
 
 ## 🛠️ Tech Stack
 
