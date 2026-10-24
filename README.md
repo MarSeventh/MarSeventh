@@ -1,4 +1,8 @@
-# Hi, I'm SanyueQi 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readme/profile-banner-dark.apng" />
+  <source media="(prefers-color-scheme: light)" srcset="readme/profile-banner-light.apng" />
+  <img width="100%" alt="Hi, I'm SanyueQi — contribution pixels converge into a personal greeting" src="readme/profile-banner-light.apng" />
+</picture>
 
 **Embodied AI & Robotics Researcher / Full Stack Developer**
 
